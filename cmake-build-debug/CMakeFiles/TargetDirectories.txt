@@ -19,5 +19,6 @@ D:/C_task1/cmake-build-debug/CMakeFiles/ArrayFahrenheitToCelsius.dir
 D:/C_task1/cmake-build-debug/CMakeFiles/ArrayAdding.dir
 D:/C_task1/cmake-build-debug/CMakeFiles/ArrayEvenOdd.dir
 D:/C_task1/cmake-build-debug/CMakeFiles/ArrayOddSeries.dir
+D:/C_task1/cmake-build-debug/CMakeFiles/PrimeNumber.dir
 D:/C_task1/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/C_task1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

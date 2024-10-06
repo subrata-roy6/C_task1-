@@ -181,6 +181,24 @@ build CMakeFiles/C_task1.dir/ArrayOddSeries.c.obj: C_COMPILER__C_task1_unscanned
   OBJECT_DIR = CMakeFiles\C_task1.dir
   OBJECT_FILE_DIR = CMakeFiles\C_task1.dir
 
+build CMakeFiles/C_task1.dir/ArraryEvenseries.c.obj: C_COMPILER__C_task1_unscanned_Debug D$:/C_task1/ArraryEvenseries.c || cmake_object_order_depends_target_C_task1
+  DEP_FILE = CMakeFiles\C_task1.dir\ArraryEvenseries.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\C_task1.dir
+  OBJECT_FILE_DIR = CMakeFiles\C_task1.dir
+
+build CMakeFiles/C_task1.dir/FunctionPrimeNumber.c.obj: C_COMPILER__C_task1_unscanned_Debug D$:/C_task1/FunctionPrimeNumber.c || cmake_object_order_depends_target_C_task1
+  DEP_FILE = CMakeFiles\C_task1.dir\FunctionPrimeNumber.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\C_task1.dir
+  OBJECT_FILE_DIR = CMakeFiles\C_task1.dir
+
+build CMakeFiles/C_task1.dir/PrimeNumber.c.obj: C_COMPILER__C_task1_unscanned_Debug D$:/C_task1/PrimeNumber.c || cmake_object_order_depends_target_C_task1
+  DEP_FILE = CMakeFiles\C_task1.dir\PrimeNumber.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\C_task1.dir
+  OBJECT_FILE_DIR = CMakeFiles\C_task1.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target C_task1
@@ -189,7 +207,7 @@ build CMakeFiles/C_task1.dir/ArrayOddSeries.c.obj: C_COMPILER__C_task1_unscanned
 #############################################
 # Link the executable C_task1.exe
 
-build C_task1.exe: C_EXECUTABLE_LINKER__C_task1_Debug CMakeFiles/C_task1.dir/main.c.obj CMakeFiles/C_task1.dir/Minimum.c.obj CMakeFiles/C_task1.dir/FahrenheitToCelsius.c.obj CMakeFiles/C_task1.dir/AddingNumber.c.obj CMakeFiles/C_task1.dir/OddEven.c.obj CMakeFiles/C_task1.dir/Series.c.obj CMakeFiles/C_task1.dir/Series1.c.obj CMakeFiles/C_task1.dir/Factorial.c.obj CMakeFiles/C_task1.dir/Fibonacci.c.obj CMakeFiles/C_task1.dir/functionMinimum.c.obj CMakeFiles/C_task1.dir/FunctionFahrenheitToC.c.obj CMakeFiles/C_task1.dir/FunctionAdd.c.obj CMakeFiles/C_task1.dir/FunctionOddEven.c.obj CMakeFiles/C_task1.dir/FunctionOddSerise.c.obj CMakeFiles/C_task1.dir/FunctionEvenSeries.c.obj CMakeFiles/C_task1.dir/FunctionFactorial.c.obj CMakeFiles/C_task1.dir/FunctionFibonacci.c.obj CMakeFiles/C_task1.dir/Arraymin.c.obj CMakeFiles/C_task1.dir/ArrayFahrenheitToCelsius.c.obj CMakeFiles/C_task1.dir/ArrayAdding.c.obj CMakeFiles/C_task1.dir/ArrayEvenOdd.c.obj CMakeFiles/C_task1.dir/ArrayOddSeries.c.obj
+build C_task1.exe: C_EXECUTABLE_LINKER__C_task1_Debug CMakeFiles/C_task1.dir/main.c.obj CMakeFiles/C_task1.dir/Minimum.c.obj CMakeFiles/C_task1.dir/FahrenheitToCelsius.c.obj CMakeFiles/C_task1.dir/AddingNumber.c.obj CMakeFiles/C_task1.dir/OddEven.c.obj CMakeFiles/C_task1.dir/Series.c.obj CMakeFiles/C_task1.dir/Series1.c.obj CMakeFiles/C_task1.dir/Factorial.c.obj CMakeFiles/C_task1.dir/Fibonacci.c.obj CMakeFiles/C_task1.dir/functionMinimum.c.obj CMakeFiles/C_task1.dir/FunctionFahrenheitToC.c.obj CMakeFiles/C_task1.dir/FunctionAdd.c.obj CMakeFiles/C_task1.dir/FunctionOddEven.c.obj CMakeFiles/C_task1.dir/FunctionOddSerise.c.obj CMakeFiles/C_task1.dir/FunctionEvenSeries.c.obj CMakeFiles/C_task1.dir/FunctionFactorial.c.obj CMakeFiles/C_task1.dir/FunctionFibonacci.c.obj CMakeFiles/C_task1.dir/Arraymin.c.obj CMakeFiles/C_task1.dir/ArrayFahrenheitToCelsius.c.obj CMakeFiles/C_task1.dir/ArrayAdding.c.obj CMakeFiles/C_task1.dir/ArrayEvenOdd.c.obj CMakeFiles/C_task1.dir/ArrayOddSeries.c.obj CMakeFiles/C_task1.dir/ArraryEvenseries.c.obj CMakeFiles/C_task1.dir/FunctionPrimeNumber.c.obj CMakeFiles/C_task1.dir/PrimeNumber.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\C_task1.dir
@@ -859,6 +877,39 @@ build ArrayOddSeries.exe: C_EXECUTABLE_LINKER__ArrayOddSeries_Debug CMakeFiles/A
   TARGET_IMPLIB = libArrayOddSeries.dll.a
   TARGET_PDB = ArrayOddSeries.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target PrimeNumber
+
+
+#############################################
+# Order-only phony target for PrimeNumber
+
+build cmake_object_order_depends_target_PrimeNumber: phony || .
+
+build CMakeFiles/PrimeNumber.dir/PrimeNumber.c.obj: C_COMPILER__PrimeNumber_unscanned_Debug D$:/C_task1/PrimeNumber.c || cmake_object_order_depends_target_PrimeNumber
+  DEP_FILE = CMakeFiles\PrimeNumber.dir\PrimeNumber.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\PrimeNumber.dir
+  OBJECT_FILE_DIR = CMakeFiles\PrimeNumber.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target PrimeNumber
+
+
+#############################################
+# Link the executable PrimeNumber.exe
+
+build PrimeNumber.exe: C_EXECUTABLE_LINKER__PrimeNumber_Debug CMakeFiles/PrimeNumber.dir/PrimeNumber.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\PrimeNumber.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = PrimeNumber.exe
+  TARGET_IMPLIB = libPrimeNumber.dll.a
+  TARGET_PDB = PrimeNumber.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -921,6 +972,8 @@ build Minimum: phony Minimum.exe
 
 build OddEven: phony OddEven.exe
 
+build PrimeNumber: phony PrimeNumber.exe
+
 build Series: phony Series.exe
 
 build Series1: phony Series1.exe
@@ -935,7 +988,7 @@ build functionMinimum: phony functionMinimum.exe
 #############################################
 # Folder: D:/C_task1/cmake-build-debug
 
-build all: phony C_task1.exe Minimum.exe FahrenheitToCelsius.exe AddingNumber.exe OddEven.exe Series.exe Series1.exe Factorial.exe Fibonacci.exe functionMinimum.exe FunctionFahrenheitToC.exe FunctionOddEven.exe FunctionOddSerise.exe FunctionEvenSeries.exe FunctionFactorial.exe FunctionFibonacci.exe Arraymin.exe ArrayFahrenheitToCelsius.exe ArrayAdding.exe ArrayEvenOdd.exe ArrayOddSeries.exe
+build all: phony C_task1.exe Minimum.exe FahrenheitToCelsius.exe AddingNumber.exe OddEven.exe Series.exe Series1.exe Factorial.exe Fibonacci.exe functionMinimum.exe FunctionFahrenheitToC.exe FunctionOddEven.exe FunctionOddSerise.exe FunctionEvenSeries.exe FunctionFactorial.exe FunctionFibonacci.exe Arraymin.exe ArrayFahrenheitToCelsius.exe ArrayAdding.exe ArrayEvenOdd.exe ArrayOddSeries.exe PrimeNumber.exe
 
 # =============================================================================
 # Built-in targets

@@ -24,7 +24,10 @@ add_executable(C_task1 main.c
         ArrayFahrenheitToCelsius.c
         ArrayAdding.c
         ArrayEvenOdd.c
-        ArrayOddSeries.c)
+        ArrayOddSeries.c
+        ArraryEvenseries.c
+        FunctionPrimeNumber.c
+        PrimeNumber.c)
 add_executable(Minimum Minimum.c)
 add_executable(FahrenheitToCelsius FahrenheitToCelsius.c)
 add_executable(AddingNumber AddingNumber.c)
@@ -45,6 +48,8 @@ add_executable(ArrayFahrenheitToCelsius ArrayFahrenheitToCelsius.c)
 add_executable(ArrayAdding ArrayAdding.c)
 add_executable(ArrayEvenOdd ArrayEvenOdd.c)
 add_executable(ArrayOddSeries ArrayOddSeries.c)
+add_executable(PrimeNumber PrimeNumber.c)
+
 
 
 
